@@ -1,6 +1,8 @@
 LivingSocial API Design Guide
 =============================
 
+[![Join the chat at https://gitter.im/raview-app/My-awesome](https://badges.gitter.im/raview-app/My-awesome.svg)](https://gitter.im/raview-app/My-awesome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Version 1.0.0 - Published 2017 Jul 28
 
 _Internal version published 2016 Mar 10_
